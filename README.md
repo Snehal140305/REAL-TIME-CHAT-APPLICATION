@@ -19,6 +19,7 @@ Project Overview
 This project is a real-time chat application built using HTML, CSS, and JavaScript. It provides a simple and user-friendly interface for sending and receiving messages without requiring a backend. The application runs locally on Google Chrome and was developed using Visual Studio Code (VS Code).
 
 Features
+
 ✔️ User Input and Display: Users can type and send messages, which appear in the chat window.
 
 ✔️ Bot Response: The application features a basic bot that replies to user messages.
@@ -61,3 +62,6 @@ Use Live Server or open the file in Google Chrome.
 
 Interact with the chat interface by sending messages and receiving bot responses.
 
+Output Image
+
+![Image](https://github.com/user-attachments/assets/a236979b-bdb9-48bc-8826-f8202d4e4605)
